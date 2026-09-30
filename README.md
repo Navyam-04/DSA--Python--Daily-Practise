@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
