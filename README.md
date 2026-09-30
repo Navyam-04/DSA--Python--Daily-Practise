@@ -21,6 +21,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
