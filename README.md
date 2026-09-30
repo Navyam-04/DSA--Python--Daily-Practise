@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0509-fibonacci-number) |
@@ -30,6 +31,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
@@ -43,4 +45,24 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
