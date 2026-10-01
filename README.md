@@ -83,4 +83,12 @@
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
