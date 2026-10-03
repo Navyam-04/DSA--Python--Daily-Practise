@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
