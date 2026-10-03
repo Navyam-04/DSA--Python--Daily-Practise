@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0507-perfect-number) |
@@ -50,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
 ## String
 |  |
