@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        if not s:
+        if not s or len(s)==1:
             return s
         left=0
         right=len(s)-1
