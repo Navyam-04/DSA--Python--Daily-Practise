@@ -94,16 +94,19 @@
 | [0125-valid-palindrome](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
