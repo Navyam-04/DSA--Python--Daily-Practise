@@ -56,6 +56,7 @@
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
@@ -103,6 +104,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -122,4 +124,5 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
