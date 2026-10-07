@@ -53,6 +53,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -133,8 +135,17 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
