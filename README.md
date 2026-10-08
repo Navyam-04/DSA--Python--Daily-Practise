@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
@@ -106,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
@@ -133,6 +135,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
