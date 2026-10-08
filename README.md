@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
@@ -148,6 +150,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
