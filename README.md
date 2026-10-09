@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -65,6 +66,7 @@
 | [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -128,6 +131,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
@@ -180,4 +184,12 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
