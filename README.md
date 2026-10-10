@@ -62,6 +62,7 @@
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
@@ -127,6 +128,7 @@
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
@@ -166,6 +168,7 @@
 | [0016-3sum-closest](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
