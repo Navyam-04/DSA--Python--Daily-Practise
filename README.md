@@ -71,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
@@ -195,4 +196,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
