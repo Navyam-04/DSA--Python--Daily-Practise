@@ -31,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -60,6 +61,7 @@
 | [0018-4sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
