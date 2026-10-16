@@ -72,6 +72,7 @@
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
@@ -220,6 +221,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
@@ -227,4 +229,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
