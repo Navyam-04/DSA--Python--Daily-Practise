@@ -77,6 +77,7 @@
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0904-fruit-into-baskets) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
