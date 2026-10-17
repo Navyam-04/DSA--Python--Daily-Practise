@@ -14,6 +14,7 @@
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
@@ -85,6 +86,7 @@
 | [0904-fruit-into-baskets](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -130,6 +132,7 @@
 | [0525-contiguous-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -223,6 +226,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
