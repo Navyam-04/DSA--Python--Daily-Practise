@@ -92,6 +92,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -140,6 +141,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -249,6 +251,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
 ## Matrix
 |  |
 | ------- |
