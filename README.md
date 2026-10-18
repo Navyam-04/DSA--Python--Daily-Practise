@@ -38,6 +38,7 @@
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
@@ -184,6 +186,7 @@
 | [0917-reverse-only-letters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
