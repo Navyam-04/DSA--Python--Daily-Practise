@@ -36,6 +36,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -176,6 +177,7 @@
 | [0392-is-subsequence](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0905-sort-array-by-parity) |
@@ -194,6 +196,7 @@
 | [0392-is-subsequence](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0917-reverse-only-letters) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -281,6 +284,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
