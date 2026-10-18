@@ -45,6 +45,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0845-longest-mountain-in-array) |
@@ -152,6 +153,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0016-3sum-closest) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0303-range-sum-query-immutable) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
