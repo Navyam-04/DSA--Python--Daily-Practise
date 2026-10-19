@@ -39,6 +39,7 @@
 | [0844-backspace-string-compare](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
@@ -150,6 +152,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -210,6 +213,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +228,7 @@
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
@@ -292,4 +297,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
