@@ -93,6 +93,7 @@
 | [0525-contiguous-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0845-longest-mountain-in-array) |
@@ -153,6 +154,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -163,6 +165,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0621-task-scheduler) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -220,6 +223,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
@@ -237,6 +241,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
@@ -313,5 +318,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0621-task-scheduler) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
