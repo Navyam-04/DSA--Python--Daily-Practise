@@ -92,6 +92,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0845-longest-mountain-in-array) |
+| [0860-lemonade-change](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0905-sort-array-by-parity) |
@@ -214,6 +215,7 @@
 | [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
