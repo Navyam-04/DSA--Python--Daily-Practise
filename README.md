@@ -108,6 +108,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -228,6 +229,7 @@
 | [0860-lemonade-change](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
@@ -245,6 +247,7 @@
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0977-squares-of-a-sorted-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
