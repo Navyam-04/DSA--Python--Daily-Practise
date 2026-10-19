@@ -83,6 +83,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0525-contiguous-array) |
@@ -180,6 +181,7 @@
 | [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0844-backspace-string-compare) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
@@ -224,6 +227,7 @@
 | [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0905-sort-array-by-parity) |
@@ -234,6 +238,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
