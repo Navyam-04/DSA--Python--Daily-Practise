@@ -76,6 +76,7 @@
 | [0048-rotate-image](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
@@ -237,6 +238,7 @@
 | [0015-3sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
@@ -253,6 +255,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 ## Bubble Sort
