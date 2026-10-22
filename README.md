@@ -18,6 +18,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -55,6 +56,7 @@
 | [0392-is-subsequence](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0845-longest-mountain-in-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -300,6 +303,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1590-make-sum-divisible-by-p) |
 ## Matrix
 |  |
