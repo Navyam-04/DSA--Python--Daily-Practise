@@ -88,6 +88,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
+| [0454-4sum-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0523-continuous-subarray-sum) |
@@ -153,6 +154,7 @@
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0454-4sum-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0454-4sum-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0560-subarray-sum-equals-k) |
