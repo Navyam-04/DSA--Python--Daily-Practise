@@ -29,6 +29,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -85,6 +86,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0204-count-primes) |
