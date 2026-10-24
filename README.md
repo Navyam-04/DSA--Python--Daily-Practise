@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0069-sqrtx) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Navyam-04/DSA--Python--Daily-Practise/tree/master/0344-reverse-string) |
